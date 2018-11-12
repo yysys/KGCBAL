@@ -1,0 +1,756 @@
+milan_obrenovic_iv natalija_obrenovic
+1 1 10 1.0
+st_jamess_palace caroline_of_ansbach
+1 1 2 1.0
+maria_louisa_of_spain_duchess_of_lucca infante_carlos_count_of_molina
+1 2 7 0 1.0
+maria_louisa_of_spain_duchess_of_lucca charles_iv_of_spain
+1 1 7 1.0
+linz alois_hitler_jr
+1 2 2 0 1.0
+linz alois_hitler
+1 1 2 1.0
+anna_of_bohemia_and_hungary vladislaus_ii_of_bohemia_and_hungary
+1 1 7 1.0
+dixie_lee lindsay_crosby
+1 1 0 1.0
+vasili_i_of_russia dmitri_donskoi
+1 1 7 1.0
+kublai_khan sorghaghtani_beki
+1 1 7 1.0
+ronald_reagan jane_wyman
+1 1 10 1.0
+taipei tai_chi-tao
+1 2 2 7 1.0
+taipei chiang_wei-kuo
+1 1 2 1.0
+louis_alexandre_de_bourbon_prince_de_lamballe maria_teresa_deste
+1 1 7 1.0
+irene_doukaina_laskarina constantine_tikh_of_bulgaria
+1 1 10 1.0
+victor_emmanuel_ii_of_italy maria_pia_of_italy
+1 1 0 1.0
+female vibia_sabina
+1 1 1 1.0
+female milan_obrenovic_iv
+1 2 1 10 1.0
+female maria_louisa_of_spain_duchess_of_lucca
+1 1 1 1.0
+female anna_of_bohemia_and_hungary
+1 1 1 1.0
+female dixie_lee
+1 1 1 1.0
+female louis_alexandre_de_bourbon_prince_de_lamballe
+1 2 1 0 1.0
+female victor_emmanuel_ii_of_italy
+1 2 1 10 1.0
+female infanta_maria_francisca_countess_of_molina
+1 1 1 1.0
+female anne_neville
+1 1 1 1.0
+female vladislaus_ii_of_bohemia_and_hungary
+1 2 1 7 1.0
+female hodierna_of_tripoli
+1 1 1 1.0
+female eugenie_de_montijo
+1 1 1 1.0
+female charles_darwin
+1 2 1 10 1.0
+female cleopatra_iii_of_egypt
+1 2 1 0 1.0
+female anne_of_great_britain
+1 1 1 1.0
+female fanny_imlay
+1 2 1 0 1.0
+female emily_mclaughlin
+1 1 1 1.0
+female philippa_of_lancaster
+1 1 1 1.0
+female j_howard_marshall
+1 2 1 10 1.0
+female borte
+1 1 1 1.0
+female anna_e_roosevelt
+1 1 1 1.0
+female marie_josephe_of_saxony
+1 1 1 1.0
+female alice_of_saluzzo
+1 1 1 1.0
+female maria_teresa_deste
+1 1 1 1.0
+female natalija_obrenovic
+1 1 1 1.0
+female boots_mallory
+1 1 1 1.0
+female mary_ii_of_england
+1 1 1 1.0
+female maria_adelaide_of_austria
+1 1 1 1.0
+female anna_nicole_smith
+1 1 1 1.0
+female princess_marie_bonaparte
+1 1 1 1.0
+female cleopatra_ii_of_egypt
+1 1 1 1.0
+female emma_darwin
+1 1 1 1.0
+female salote_tupou_iii_of_tonga
+1 1 1 1.0
+female birute
+1 1 1 1.0
+female lu_muzhen
+1 1 1 1.0
+female mary_wollstonecraft
+1 1 1 1.0
+female frances_adeline_seward
+1 2 1 10 1.0
+female vittoria_della_rovere
+1 1 1 1.0
+female roland_bonaparte
+1 2 1 7 1.0
+female jeanne_iii_countess_of_burgundy
+1 1 1 1.0
+female infante_carlos_count_of_molina
+1 2 1 10 1.0
+female ferdinando_ii_de_medici_grand_duke_of_tuscany
+1 2 1 10 1.0
+female charles_iv_of_spain
+1 2 1 7 1.0
+female vytautas_the_great
+1 2 1 0 1.0
+female lindsay_crosby
+1 2 1 0 1.0
+female infanta_isabel_duchess_of_burgundy
+1 2 1 0 1.0
+female merneith
+1 1 1 1.0
+female genghis_khan
+1 2 1 10 1.0
+female william_h_seward
+1 1 1 1.0
+female philip_v_of_france
+1 2 1 7 1.0
+schwetzingen maximilian_i_of_bavaria
+1 2 2 0 1.0
+schwetzingen count_palatine_frederick_michael_of_zweibrucken
+1 1 2 1.0
+alfred_hitchcock alma_reville
+1 1 10 1.0
+dmitri_donskoi vasili_i_of_russia
+1 1 0 1.0
+infanta_maria_francisca_countess_of_molina infante_carlos_count_of_molina
+1 1 10 1.0
+infanta_maria_francisca_countess_of_molina charles_iv_of_spain
+1 2 10 7 1.0
+nobleman john_manners_5th_duke_of_rutland
+1 1 6 1.0
+germans alexandra_fyodorovna_of_hesse
+1 1 11 1.0
+germans louis_iv_grand_duke_of_hesse
+1 2 11 7 1.0
+johann_frederick_ii_duke_of_saxony john_frederick_elector_of_saxony
+1 1 7 1.0
+johann_frederick_ii_duke_of_saxony johann_casimir_duke_of_saxe_coburg
+1 1 0 1.0
+agra jahangir
+1 2 2 7 1.0
+agra shah_jahan
+1 1 2 1.0
+walter_huston john_huston
+1 1 0 1.0
+mary_i_of_portugal peter_iii_of_portugal
+1 1 10 1.0
+elagabalus julia_soaemias
+1 1 7 1.0
+albert_iv_duke_of_bavaria susanna_of_bavaria
+1 1 0 1.0
+saint_petersburg alexander_serov
+1 1 5 1.0
+tad_lincoln abraham_lincoln
+1 1 7 1.0
+menkheperre smendes_ii
+1 1 0 1.0
+margarita_of_austria maria_anna_of_spain
+1 1 0 1.0
+margarita_of_austria mariana_of_austria
+1 2 0 0 1.0
+john_frederick_elector_of_saxony johann_frederick_ii_duke_of_saxony
+1 1 0 1.0
+john_frederick_elector_of_saxony johann_casimir_duke_of_saxe_coburg
+1 2 0 0 1.0
+joan_bennett richard_bennett
+1 1 7 1.0
+catarina_of_spain maria_manuela_of_portugal
+1 1 0 1.0
+edward_cavendish_10th_duke_of_devonshire andrew_cavendish_11th_duke_of_devonshire
+1 1 0 1.0
+constantine_tikh_of_bulgaria irene_doukaina_laskarina
+1 1 10 1.0
+maria_anna_of_spain margarita_of_austria
+1 1 7 1.0
+maria_anna_of_spain mariana_of_austria
+1 1 0 1.0
+adrienne_morrison joan_bennett
+1 2 10 0 1.0
+adrienne_morrison richard_bennett
+1 1 10 1.0
+germantown j_howard_marshall
+1 1 5 1.0
+germantown anna_nicole_smith
+1 2 5 10 1.0
+sepsis fanny_imlay
+1 2 12 0 1.0
+sepsis mary_wollstonecraft
+1 1 12 1.0
+mariana_of_austria margarita_of_austria
+1 2 7 7 1.0
+mariana_of_austria maria_anna_of_spain
+1 1 7 1.0
+alfonso_v_of_leon bermudo_ii_of_leon
+1 1 7 1.0
+jane_wyman ronald_reagan
+1 1 10 1.0
+charles_darwin emma_darwin
+1 1 10 1.0
+cleopatra_iii_of_egypt cleopatra_iv_of_egypt
+1 1 0 1.0
+cleopatra_iii_of_egypt antiochus_ix_cyzicenus
+1 2 0 10 1.0
+toronto walter_huston
+2 1 5 0.6923076923076923 1 9 0.30769230769230765
+toronto john_huston
+2 2 5 0 0.6923076923076923 2 9 0 0.30769230769230765
+saluzzo alice_of_saluzzo
+1 1 5 1.0
+fanny_imlay mary_wollstonecraft
+1 1 7 1.0
+charles_i_duke_of_burgundy infanta_isabel_duchess_of_burgundy
+1 1 7 1.0
+katherine_oshea charles_stewart_parnell
+1 1 10 1.0
+charles_stewart_parnell katherine_oshea
+1 1 10 1.0
+ivan_ii_of_russia vasili_i_of_russia
+1 2 0 0 1.0
+ivan_ii_of_russia dmitri_donskoi
+1 1 0 1.0
+potsdam crown_prince_wilhelm_of_germany
+1 1 9 1.0
+potsdam duchess_cecilie_of_mecklenburg-schwerin
+1 2 9 10 1.0
+alois_hitler_jr alois_hitler
+1 1 7 1.0
+screenwriter alfred_hitchcock
+1 1 6 1.0
+screenwriter alma_reville
+1 2 6 10 1.0
+rio_de_janeiro mary_i_of_portugal
+1 1 2 1.0
+rio_de_janeiro peter_iii_of_portugal
+1 2 2 10 1.0
+rio_de_janeiro maria_ii_of_portugal
+1 1 5 1.0
+rio_de_janeiro infante_joao_duke_of_beja
+1 2 5 0 1.0
+jules_dassin melina_mercouri
+1 1 10 1.0
+karl_of_anhalt_zerbst john_vi_prince_of_anhalt_zerbst
+1 1 7 1.0
+karl_of_anhalt_zerbst magdalena_augusta_of_anhalt_zerbst
+1 1 0 1.0
+peter_iii_of_portugal mary_i_of_portugal
+1 1 10 1.0
+philippa_of_lancaster charles_i_duke_of_burgundy
+1 2 0 0 1.0
+philippa_of_lancaster infanta_isabel_duchess_of_burgundy
+1 1 0 1.0
+louis_xviii_of_france marie_josephe_of_saxony
+1 1 7 1.0
+j_howard_marshall anna_nicole_smith
+1 1 10 1.0
+ulrike_eleonora_of_denmark frederick_iii_of_denmark
+1 1 7 1.0
+borte genghis_khan
+1 1 10 1.0
+john_vi_prince_of_anhalt_zerbst karl_of_anhalt_zerbst
+1 1 0 1.0
+john_vi_prince_of_anhalt_zerbst magdalena_augusta_of_anhalt_zerbst
+1 2 0 0 1.0
+england charles_darwin
+1 1 9 1.0
+england emma_darwin
+1 2 9 10 1.0
+england john_rolfe
+1 1 3 1.0
+djoser khasekhemwy
+1 1 7 1.0
+maria_ii_of_portugal infante_joao_duke_of_beja
+1 1 0 1.0
+melina_mercouri jules_dassin
+1 1 10 1.0
+charles_albert_of_sardinia victor_emmanuel_ii_of_italy
+1 1 0 1.0
+charles_albert_of_sardinia maria_pia_of_italy
+1 2 0 0 1.0
+charles_albert_of_sardinia ferdinand_duke_of_genoa
+1 1 0 1.0
+inventor orville_wright
+1 1 6 1.0
+mecklenburg-schwerin crown_prince_wilhelm_of_germany
+1 2 9 10 1.0
+mecklenburg-schwerin duchess_cecilie_of_mecklenburg-schwerin
+1 1 9 1.0
+fecamp richard_ii_duke_of_normandy
+1 1 2 1.0
+ferdinand_i_holy_roman_emperor anna_of_bohemia_and_hungary
+1 1 10 1.0
+ferdinand_i_holy_roman_emperor vladislaus_ii_of_bohemia_and_hungary
+1 2 10 7 1.0
+ferdinand_duke_of_genoa victor_emmanuel_ii_of_italy
+1 2 7 0 1.0
+ferdinand_duke_of_genoa charles_albert_of_sardinia
+1 1 7 1.0
+magdalene_college_cambridge katherine_oshea
+1 2 4 10 1.0
+magdalene_college_cambridge charles_stewart_parnell
+1 1 4 1.0
+jahangir shah_jahan
+1 1 0 1.0
+maria_teresa_deste louis_alexandre_de_bourbon_prince_de_lamballe
+1 1 0 1.0
+natalija_obrenovic milan_obrenovic_iv
+1 1 10 1.0
+krakow cecilia_renata_of_austria
+1 1 2 1.0
+krakow boleslaw_iii_wrymouth
+1 1 5 1.0
+county_wicklow katherine_oshea
+1 2 9 10 1.0
+county_wicklow charles_stewart_parnell
+1 1 9 1.0
+abraham_mendelssohn_bartholdy felix_mendelssohn
+1 1 0 1.0
+karl_theodor_duke_in_bavaria elisabeth_of_bavaria
+1 2 7 0 1.0
+karl_theodor_duke_in_bavaria maximilian_i_of_bavaria
+1 2 7 7 1.0
+karl_theodor_duke_in_bavaria princess_ludovika_of_bavaria
+1 1 7 1.0
+julia_soaemias elagabalus
+1 1 0 1.0
+holy_roman_emperor anna_of_bohemia_and_hungary
+1 2 6 10 1.0
+holy_roman_emperor ferdinand_i_holy_roman_emperor
+1 1 6 1.0
+alexandra_fyodorovna_of_hesse alice_of_the_united_kingdom
+1 2 7 10 1.0
+alexandra_fyodorovna_of_hesse louis_iv_grand_duke_of_hesse
+1 1 7 1.0
+frederick_w_seward frances_adeline_seward
+1 2 7 10 1.0
+frederick_w_seward william_h_seward
+1 1 7 1.0
+maria_adelaide_of_austria victor_emmanuel_ii_of_italy
+1 1 10 1.0
+maria_adelaide_of_austria maria_pia_of_italy
+1 2 10 0 1.0
+anna_nicole_smith j_howard_marshall
+1 1 10 1.0
+princess_marie_bonaparte roland_bonaparte
+1 1 7 1.0
+richard_bennett joan_bennett
+1 1 0 1.0
+houston j_howard_marshall
+2 2 5 10 0.3333333333333333 2 9 10 0.6666666666666666
+houston anna_nicole_smith
+2 1 5 0.3333333333333333 1 9 0.6666666666666666
+cleopatra_ii_of_egypt cleopatra_iii_of_egypt
+1 1 0 1.0
+cleopatra_ii_of_egypt cleopatra_iv_of_egypt
+1 2 0 0 1.0
+sancho_ii_of_castile ferdinand_i_of_leon
+1 1 7 1.0
+magdalena_augusta_of_anhalt_zerbst karl_of_anhalt_zerbst
+1 1 7 1.0
+magdalena_augusta_of_anhalt_zerbst john_vi_prince_of_anhalt_zerbst
+1 2 7 7 1.0
+alois_hitler alois_hitler_jr
+1 1 0 1.0
+archduchess_sophie_of_austria elisabeth_of_bavaria
+1 1 7 1.0
+model j_howard_marshall
+1 2 6 10 1.0
+model anna_nicole_smith
+1 1 6 1.0
+emma_darwin charles_darwin
+1 1 10 1.0
+tai_chi-tao chiang_wei-kuo
+1 1 0 1.0
+caecilius_calvert_2nd_baron_baltimore charles_calvert_3rd_baron_baltimore
+1 1 0 1.0
+princess_clementine_of_belgium napoleon_victor_jerome_frederic_bonaparte
+1 1 10 1.0
+princess_clementine_of_belgium napoleon_joseph_charles_paul_bonaparte
+1 2 10 7 1.0
+maximilian_i_of_bavaria count_palatine_frederick_michael_of_zweibrucken
+1 1 7 1.0
+chagatai_khan borte
+2 2 7 10 0.5 1 7 0.5
+chagatai_khan genghis_khan
+2 2 7 10 0.5 1 7 0.5
+real_estate_broker frances_adeline_seward
+1 2 6 10 1.0
+real_estate_broker william_h_seward
+1 1 6 1.0
+augusta_wilhelmine_of_hesse_darmstadt maximilian_i_of_bavaria
+1 1 10 1.0
+augusta_wilhelmine_of_hesse_darmstadt count_palatine_frederick_michael_of_zweibrucken
+1 2 10 7 1.0
+charles_ii_of_austria anna_of_bohemia_and_hungary
+1 1 7 1.0
+charles_ii_of_austria vladislaus_ii_of_bohemia_and_hungary
+1 2 7 7 1.0
+charles_ii_of_austria margarita_of_austria
+1 1 0 1.0
+charles_ii_of_austria maria_anna_of_spain
+1 2 0 0 1.0
+united_states_military_academy frederick_dent_grant
+1 1 4 1.0
+birute vytautas_the_great
+1 1 0 1.0
+nicodemus_tessin_the_younger carl_gustaf_tessin
+1 1 0 1.0
+alice_of_the_united_kingdom alexandra_fyodorovna_of_hesse
+1 1 0 1.0
+alice_of_the_united_kingdom louis_iv_grand_duke_of_hesse
+2 2 0 7 0.5 1 10 0.5
+alma_reville alfred_hitchcock
+1 1 10 1.0
+crown_prince_wilhelm_of_germany duchess_cecilie_of_mecklenburg-schwerin
+1 1 10 1.0
+mary_wollstonecraft fanny_imlay
+1 1 0 1.0
+carl_gustaf_tessin nicodemus_tessin_the_younger
+1 1 7 1.0
+napoleon_victor_jerome_frederic_bonaparte napoleon_joseph_charles_paul_bonaparte
+1 1 7 1.0
+professor j_howard_marshall
+1 1 6 1.0
+professor andreas_papandreou
+1 1 6 1.0
+professor anna_nicole_smith
+1 2 6 10 1.0
+lady_caroline_lamb henrietta_ponsonby_countess_of_bessborough
+1 1 7 1.0
+lycee_louis_le_grand milan_obrenovic_iv
+1 1 4 1.0
+lycee_louis_le_grand natalija_obrenovic
+1 2 4 10 1.0
+henrietta_ponsonby_countess_of_bessborough lady_caroline_lamb
+1 1 0 1.0
+anne_arundell caecilius_calvert_2nd_baron_baltimore
+1 2 0 7 1.0
+anne_arundell charles_calvert_3rd_baron_baltimore
+1 1 0 1.0
+anna_of_austria anna_of_bohemia_and_hungary
+1 1 7 1.0
+anna_of_austria vladislaus_ii_of_bohemia_and_hungary
+1 2 7 7 1.0
+leuven marie_of_hohenstaufen
+1 1 2 1.0
+frances_adeline_seward william_h_seward
+1 1 10 1.0
+cleopatra_iv_of_egypt antiochus_ix_cyzicenus
+1 1 10 1.0
+johann_casimir_duke_of_saxe_coburg johann_frederick_ii_duke_of_saxony
+1 1 7 1.0
+johann_casimir_duke_of_saxe_coburg john_frederick_elector_of_saxony
+1 2 7 7 1.0
+vittoria_della_rovere ferdinando_ii_de_medici_grand_duke_of_tuscany
+1 1 10 1.0
+samuel_tertius_galton samuel_galton_jr
+1 1 7 1.0
+male milan_obrenovic_iv
+1 1 1 1.0
+male dixie_lee
+1 2 1 7 1.0
+male kublai_khan
+1 1 1 1.0
+male ronald_reagan
+1 1 1 1.0
+male augustus_ii_the_strong
+1 1 1 1.0
+male victor_emmanuel_ii_of_italy
+1 1 1 1.0
+male peter_i_duke_of_brittany
+1 1 1 1.0
+male dmitri_donskoi
+1 2 1 0 1.0
+male john_elector_of_brandenburg
+1 1 1 1.0
+male william_penn_1621
+1 1 1 1.0
+male johann_frederick_ii_duke_of_saxony
+2 1 1 0.5 2 1 0 0.5
+male maria_pia_of_italy
+1 2 1 0 1.0
+male prince_berthold_margrave_of_baden
+1 1 1 1.0
+male tad_lincoln
+1 1 1 1.0
+male vladislaus_ii_of_bohemia_and_hungary
+1 1 1 1.0
+male john_frederick_elector_of_saxony
+2 1 1 0.5 2 1 7 0.5
+male joan_bennett
+1 2 1 0 1.0
+male james_dunn_1905
+1 1 1 1.0
+male charles_longuet
+1 1 1 1.0
+male alfonso_v_of_leon
+1 2 1 0 1.0
+male jane_wyman
+1 2 1 10 1.0
+male katherine_oshea
+1 2 1 10 1.0
+male charles_stewart_parnell
+1 1 1 1.0
+male ivan_ii_of_russia
+1 1 1 1.0
+male alois_hitler_jr
+1 2 1 0 1.0
+male frederick_viii_of_denmark
+1 1 1 1.0
+male foxhall_p_keene
+1 1 1 1.0
+male jules_dassin
+1 1 1 1.0
+male napoleon_i_of_france
+1 1 1 1.0
+male louis_xviii_of_france
+1 1 1 1.0
+male ian_onslow_dennistoun
+1 1 1 1.0
+male j_howard_marshall
+1 1 1 1.0
+male ulrike_eleonora_of_denmark
+1 2 1 0 1.0
+male borte
+1 2 1 7 1.0
+male mircea_i_of_wallachia
+1 1 1 1.0
+male marie_josephe_of_saxony
+1 2 1 7 1.0
+male william_de_morgan
+1 1 1 1.0
+male alan_ladd
+1 1 1 1.0
+male melina_mercouri
+1 2 1 10 1.0
+male archduke_ernest_of_austria
+1 1 1 1.0
+male john_crichton_stuart_3rd_marquess_of_bute
+1 1 1 1.0
+male damdin_suhbaatar
+1 1 1 1.0
+male natalija_obrenovic
+1 2 1 10 1.0
+male abraham_mendelssohn_bartholdy
+1 2 1 7 1.0
+male anna_nicole_smith
+1 2 1 10 1.0
+male princess_marie_bonaparte
+1 2 1 0 1.0
+male richard_bennett
+1 1 1 1.0
+male alois_hitler
+1 1 1 1.0
+male caecilius_calvert_2nd_baron_baltimore
+1 2 1 7 1.0
+male maximilian_i_of_bavaria
+1 1 1 1.0
+male chagatai_khan
+1 1 1 1.0
+male nicodemus_tessin_the_younger
+1 2 1 7 1.0
+male carl_gustaf_tessin
+1 1 1 1.0
+male robert_f_wagner
+1 1 1 1.0
+male ramesses_iii
+1 1 1 1.0
+male mickey_hargitay
+1 1 1 1.0
+male cleopatra_iv_of_egypt
+1 2 1 10 1.0
+male johann_casimir_duke_of_saxe_coburg
+1 2 1 0 1.0
+male samuel_tertius_galton
+1 2 1 0 1.0
+male count_palatine_frederick_michael_of_zweibrucken
+1 2 1 7 1.0
+male charles_calvert_3rd_baron_baltimore
+1 1 1 1.0
+male roland_bonaparte
+1 1 1 1.0
+male abraham_lincoln
+1 2 1 7 1.0
+male samuel_galton_jr
+1 1 1 1.0
+male frederick_iii_of_denmark
+1 1 1 1.0
+male infante_carlos_count_of_molina
+1 1 1 1.0
+male philip_iv_of_france
+1 1 1 1.0
+male louis_v_duke_of_bavaria
+1 1 1 1.0
+male charles_iv_of_spain
+1 2 1 7 1.0
+male lindsay_crosby
+1 1 1 1.0
+male antiochus_ix_cyzicenus
+1 1 1 1.0
+male sorghaghtani_beki
+1 2 1 7 1.0
+male andrew_cavendish_11th_duke_of_devonshire
+1 1 1 1.0
+male venceslas_i_of_bohemia
+1 1 1 1.0
+male malcolm_iii_of_scotland
+1 1 1 1.0
+male genghis_khan
+1 2 1 7 1.0
+male bermudo_ii_of_leon
+1 1 1 1.0
+male felix_mendelssohn
+1 1 1 1.0
+male philip_v_of_france
+1 2 1 0 1.0
+blanka_of_namur magnus_iv_of_sweden
+1 1 10 1.0
+greece andreas_papandreou
+1 1 2 1.0
+louis_the_german carloman_of_bavaria
+1 1 0 1.0
+count_palatine_frederick_michael_of_zweibrucken maximilian_i_of_bavaria
+1 1 0 1.0
+ancient_egypt tutankhamun
+1 1 2 1.0
+maximilian_joseph_duke_in_bavaria elisabeth_of_bavaria
+1 1 0 1.0
+maria_klementyna_sobieska charles_edward_stuart
+1 1 0 1.0
+carloman_of_bavaria louis_the_german
+1 1 7 1.0
+duchess_cecilie_of_mecklenburg-schwerin crown_prince_wilhelm_of_germany
+1 1 10 1.0
+napoleon_joseph_charles_paul_bonaparte napoleon_victor_jerome_frederic_bonaparte
+1 1 0 1.0
+charles_edward_stuart maria_klementyna_sobieska
+1 1 7 1.0
+infante_joao_duke_of_beja maria_ii_of_portugal
+1 1 7 1.0
+charles_calvert_3rd_baron_baltimore caecilius_calvert_2nd_baron_baltimore
+1 1 7 1.0
+tower_hill james_scott_1st_duke_of_monmouth
+1 1 2 1.0
+roland_bonaparte princess_marie_bonaparte
+1 1 0 1.0
+john_huston walter_huston
+1 1 7 1.0
+samuel_galton_jr samuel_tertius_galton
+1 1 0 1.0
+frederick_iii_of_denmark ulrike_eleonora_of_denmark
+1 1 0 1.0
+jeanne_iii_countess_of_burgundy philip_iv_of_france
+1 2 7 7 1.0
+jeanne_iii_countess_of_burgundy philip_v_of_france
+1 1 7 1.0
+infante_carlos_count_of_molina maria_louisa_of_spain_duchess_of_lucca
+1 2 7 0 1.0
+infante_carlos_count_of_molina charles_iv_of_spain
+1 1 7 1.0
+philip_iv_of_france jeanne_iii_countess_of_burgundy
+1 2 0 0 1.0
+philip_iv_of_france philip_v_of_france
+1 1 0 1.0
+khasekhemwy djoser
+1 1 0 1.0
+ferdinando_ii_de_medici_grand_duke_of_tuscany vittoria_della_rovere
+1 1 10 1.0
+roman_catholic_church alfred_hitchcock
+1 2 8 10 1.0
+roman_catholic_church john_crichton_stuart_3rd_marquess_of_bute
+1 1 8 1.0
+roman_catholic_church caecilius_calvert_2nd_baron_baltimore
+1 1 8 1.0
+roman_catholic_church alma_reville
+1 1 8 1.0
+roman_catholic_church charles_calvert_3rd_baron_baltimore
+1 2 8 0 1.0
+charles_iv_of_spain maria_louisa_of_spain_duchess_of_lucca
+1 1 0 1.0
+charles_iv_of_spain infante_carlos_count_of_molina
+1 1 0 1.0
+lindsay_crosby dixie_lee
+1 1 7 1.0
+chiang_wei-kuo tai_chi-tao
+1 1 7 1.0
+antiochus_ix_cyzicenus cleopatra_iv_of_egypt
+1 1 10 1.0
+sorghaghtani_beki kublai_khan
+1 1 0 1.0
+birmingham samuel_tertius_galton
+2 1 9 0.5 2 9 0 0.5
+birmingham samuel_galton_jr
+2 2 9 7 0.5 1 9 0.5
+magnus_iv_of_sweden blanka_of_namur
+1 1 10 1.0
+princess_ludovika_of_bavaria elisabeth_of_bavaria
+1 1 0 1.0
+princess_ludovika_of_bavaria karl_theodor_duke_in_bavaria
+1 1 0 1.0
+princess_ludovika_of_bavaria maximilian_i_of_bavaria
+1 1 7 1.0
+princess_ludovika_of_bavaria count_palatine_frederick_michael_of_zweibrucken
+1 2 7 7 1.0
+louis_iv_grand_duke_of_hesse alexandra_fyodorovna_of_hesse
+1 2 10 0 1.0
+louis_iv_grand_duke_of_hesse alice_of_the_united_kingdom
+1 1 10 1.0
+infanta_isabel_duchess_of_burgundy charles_i_duke_of_burgundy
+1 1 0 1.0
+marie_of_baden_sponheim albert_iv_duke_of_bavaria
+1 2 10 7 1.0
+marie_of_baden_sponheim william_iv_duke_of_bavaria
+1 1 10 1.0
+copenhagen ulrike_eleonora_of_denmark
+1 1 5 1.0
+copenhagen frederick_iii_of_denmark
+1 2 5 7 1.0
+victoria_kinoiki_kekaulike david_kawananakoa
+1 1 0 1.0
+genghis_khan borte
+1 1 10 1.0
+publisher orville_wright
+1 1 6 1.0
+william_h_seward frances_adeline_seward
+1 1 10 1.0
+bermudo_ii_of_leon alfonso_v_of_leon
+1 1 0 1.0
+felix_mendelssohn abraham_mendelssohn_bartholdy
+1 1 7 1.0
+philip_v_of_france jeanne_iii_countess_of_burgundy
+1 1 0 1.0
+philip_v_of_france philip_iv_of_france
+1 1 7 1.0
+william_iv_duke_of_bavaria albert_iv_duke_of_bavaria
+1 1 7 1.0
+william_iv_duke_of_bavaria susanna_of_bavaria
+1 2 7 0 1.0
+smendes_ii menkheperre
+1 1 7 1.0
+shah_jahan jahangir
+1 1 7 1.0

@@ -1,0 +1,17 @@
+birthPlace	0
+deathPlace	1
+genre	2
+occupation	3
+hometown	4
+associatedBand	5
+battle	6
+almaMater	7
+writer	8
+starring	9
+associatedMusicalArtist	10
+country	11
+producer	12
+recordLabel	13
+team	14
+format	15
+previousWork	16

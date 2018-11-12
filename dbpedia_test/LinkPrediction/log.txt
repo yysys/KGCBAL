@@ -1,0 +1,402 @@
+
+rate: 55 batch: 500 option RootedPageRank
+load_time: 0:00:00.829478
+rooted_pagerank_time: 0:16:00.396139
+entities_cluster_check_time: 0:03:52.513087
+top_check_time: 0:03:51.735249
+The hit rate without check of RootedPageRank is 0.014 0.0007116714111427409
+The hit rate with check of RootedPageRank is 0.04 0.0020333468889792597
+
+rate: 60 batch: 500 option RootedPageRank
+load_time: 0:00:00.909929
+rooted_pagerank_time: 0:17:20.489247
+entities_cluster_check_time: 0:04:13.407080
+top_check_time: 0:04:08.355831
+The hit rate without check of RootedPageRank is 0.012 0.0006861848124428179
+The hit rate with check of RootedPageRank is 0.046 0.0026303751143641353
+
+rate: 65 batch: 500 option RootedPageRank
+load_time: 0:00:00.940407
+rooted_pagerank_time: 0:19:10.765816
+entities_cluster_check_time: 0:04:35.271689
+top_check_time: 0:04:32.063988
+The hit rate without check of RootedPageRank is 0.016 0.0010454783063251437
+The hit rate with check of RootedPageRank is 0.06 0.003920543648719289
+
+rate: 70 batch: 500 option RootedPageRank
+load_time: 0:00:01.020369
+rooted_pagerank_time: 0:20:25.923818
+entities_cluster_check_time: 0:04:48.000315
+top_check_time: 0:04:46.172821
+The hit rate without check of RootedPageRank is 0.014 0.0010670731707317074
+The hit rate with check of RootedPageRank is 0.056 0.00426829268292683
+
+rate: 75 batch: 500 option RootedPageRank
+load_time: 0:00:01.203921
+rooted_pagerank_time: 0:21:36.666535
+entities_cluster_check_time: 0:04:45.422338
+top_check_time: 0:04:52.472616
+The hit rate without check of RootedPageRank is 0.01 0.0009144111192392099
+The hit rate with check of RootedPageRank is 0.056 0.005120702267739576
+
+rate: 80 batch: 500 option RootedPageRank
+load_time: 0:00:01.129806
+rooted_pagerank_time: 0:22:40.440805
+entities_cluster_check_time: 0:05:01.951992
+top_check_time: 0:04:59.688529
+The hit rate without check of RootedPageRank is 0.008 0.0009140767824497258
+The hit rate with check of RootedPageRank is 0.05 0.005712979890310786
+
+rate: 85 batch: 500 option RootedPageRank
+load_time: 0:00:01.217468
+rooted_pagerank_time: 0:24:11.574740
+entities_cluster_check_time: 0:05:22.033327
+top_check_time: 0:05:08.023624
+The hit rate without check of RootedPageRank is 0.004 0.0006090133982947625
+The hit rate with check of RootedPageRank is 0.056 0.008526187576126675
+
+rate: 90 batch: 500 option RootedPageRank
+load_time: 0:00:01.282267
+rooted_pagerank_time: 0:24:50.486541
+entities_cluster_check_time: 0:05:20.337244
+top_check_time: 0:05:30.327768
+The hit rate without check of RootedPageRank is 0.002 0.0004562043795620438
+The hit rate with check of RootedPageRank is 0.068 0.01551094890510949
+
+rate: 95 batch: 500 option RootedPageRank
+load_time: 0:00:01.301788
+rooted_pagerank_time: 0:26:18.649741
+entities_cluster_check_time: 0:05:35.705368
+top_check_time: 0:05:32.500709
+The hit rate without check of RootedPageRank is 0.004 0.0018181818181818182
+The hit rate with check of RootedPageRank is 0.062 0.028181818181818183
+
+rate: 55 batch: 1000 option RootedPageRank
+load_time: 0:00:00.842152
+rooted_pagerank_time: 0:15:48.564541
+entities_cluster_check_time: 0:03:45.618987
+top_check_time: 0:03:45.876924
+The hit rate without check of RootedPageRank is 0.076 0.0077267181781211875
+The hit rate with check of RootedPageRank is 0.22 0.022366815778771858
+
+rate: 60 batch: 1000 option RootedPageRank
+load_time: 0:00:00.911403
+rooted_pagerank_time: 0:17:32.159800
+entities_cluster_check_time: 0:04:09.025795
+top_check_time: 0:04:11.587584
+The hit rate without check of RootedPageRank is 0.066 0.007548032936870997
+The hit rate with check of RootedPageRank is 0.248 0.028362305580969808
+
+rate: 65 batch: 1000 option RootedPageRank
+load_time: 0:00:01.119424
+rooted_pagerank_time: 0:18:46.703492
+entities_cluster_check_time: 0:04:26.477361
+top_check_time: 0:04:31.232962
+The hit rate without check of RootedPageRank is 0.091 0.01189231573444851
+The hit rate with check of RootedPageRank is 0.283 0.03698379508625196
+
+rate: 70 batch: 1000 option RootedPageRank
+load_time: 0:00:01.044937
+rooted_pagerank_time: 0:20:10.349566
+entities_cluster_check_time: 0:04:47.585991
+top_check_time: 0:04:42.887884
+The hit rate without check of RootedPageRank is 0.108 0.016463414634146342
+The hit rate with check of RootedPageRank is 0.292 0.04451219512195122
+
+rate: 75 batch: 1000 option RootedPageRank
+load_time: 0:00:01.054636
+rooted_pagerank_time: 0:21:27.042683
+entities_cluster_check_time: 0:04:51.992663
+top_check_time: 0:04:58.147767
+The hit rate without check of RootedPageRank is 0.091 0.01664228237015362
+The hit rate with check of RootedPageRank is 0.277 0.05065837600585223
+
+rate: 80 batch: 1000 option RootedPageRank
+load_time: 0:00:01.106746
+rooted_pagerank_time: 0:22:42.199568
+entities_cluster_check_time: 0:05:08.604035
+top_check_time: 0:05:09.921203
+The hit rate without check of RootedPageRank is 0.113 0.025822669104204752
+The hit rate with check of RootedPageRank is 0.256 0.05850091407678245
+
+rate: 85 batch: 1000 option RootedPageRank
+load_time: 0:00:01.165514
+rooted_pagerank_time: 0:24:11.690442
+entities_cluster_check_time: 0:05:26.778833
+top_check_time: 0:05:12.842042
+The hit rate without check of RootedPageRank is 0.124 0.037758830694275276
+The hit rate with check of RootedPageRank is 0.226 0.06881851400730817
+
+rate: 90 batch: 1000 option RootedPageRank
+load_time: 0:00:01.266678
+rooted_pagerank_time: 0:25:41.064970
+entities_cluster_check_time: 0:05:21.639364
+top_check_time: 0:05:29.724420
+The hit rate without check of RootedPageRank is 0.106 0.048357664233576646
+The hit rate with check of RootedPageRank is 0.167 0.07618613138686131
+
+rate: 95 batch: 1000 option RootedPageRank
+load_time: 0:00:01.402001
+rooted_pagerank_time: 0:26:33.596587
+entities_cluster_check_time: 0:05:35.348100
+top_check_time: 0:05:28.846498
+The hit rate without check of RootedPageRank is 0.064 0.05818181818181818
+The hit rate with check of RootedPageRank is 0.092 0.08363636363636363
+
+rate: 55 batch: 2000 option RootedPageRank
+load_time: 0:00:00.847333
+rooted_pagerank_time: 0:15:50.607559
+entities_cluster_check_time: 0:03:48.741465
+top_check_time: 0:03:44.648976
+The hit rate without check of RootedPageRank is 0.277 0.056323708824725496
+The hit rate with check of RootedPageRank is 0.343 0.06974379829198861
+
+rate: 60 batch: 2000 option RootedPageRank
+load_time: 0:00:00.952950
+rooted_pagerank_time: 0:17:24.357841
+entities_cluster_check_time: 0:04:09.438105
+top_check_time: 0:04:05.699978
+The hit rate without check of RootedPageRank is 0.27 0.06175663311985361
+The hit rate with check of RootedPageRank is 0.3335 0.07628087831655993
+
+rate: 65 batch: 2000 option RootedPageRank
+load_time: 0:00:00.964451
+rooted_pagerank_time: 0:18:53.535317
+entities_cluster_check_time: 0:04:25.178641
+top_check_time: 0:04:27.255828
+The hit rate without check of RootedPageRank is 0.2645 0.06913225300575013
+The hit rate with check of RootedPageRank is 0.3145 0.08220073183481443
+
+rate: 70 batch: 2000 option RootedPageRank
+load_time: 0:00:01.035291
+rooted_pagerank_time: 0:19:21.970331
+entities_cluster_check_time: 0:04:32.157863
+top_check_time: 0:04:28.794413
+The hit rate without check of RootedPageRank is 0.2515 0.07667682926829268
+The hit rate with check of RootedPageRank is 0.3025 0.09222560975609756
+
+rate: 75 batch: 2000 option RootedPageRank
+load_time: 0:00:01.136093
+rooted_pagerank_time: 0:20:42.532668
+entities_cluster_check_time: 0:04:35.535966
+top_check_time: 0:04:30.796813
+The hit rate without check of RootedPageRank is 0.2265 0.08284564740307242
+The hit rate with check of RootedPageRank is 0.2715 0.0993050475493782
+
+rate: 80 batch: 2000 option RootedPageRank
+load_time: 0:00:01.007653
+rooted_pagerank_time: 0:22:31.482563
+entities_cluster_check_time: 0:04:56.699858
+top_check_time: 0:04:56.423155
+The hit rate without check of RootedPageRank is 0.1915 0.08752285191956125
+The hit rate with check of RootedPageRank is 0.2335 0.10671846435100549
+
+rate: 85 batch: 2000 option RootedPageRank
+load_time: 0:00:01.120341
+rooted_pagerank_time: 0:23:50.414107
+entities_cluster_check_time: 0:05:16.880760
+top_check_time: 0:05:03.661933
+The hit rate without check of RootedPageRank is 0.154 0.09378806333739342
+The hit rate with check of RootedPageRank is 0.1915 0.11662606577344702
+
+rate: 90 batch: 2000 option RootedPageRank
+load_time: 0:00:01.266295
+rooted_pagerank_time: 0:24:53.566723
+entities_cluster_check_time: 0:05:16.749004
+top_check_time: 0:05:07.260207
+The hit rate without check of RootedPageRank is 0.1115 0.10173357664233576
+The hit rate with check of RootedPageRank is 0.138 0.1259124087591241
+
+rate: 95 batch: 2000 option RootedPageRank
+load_time: 0:00:01.159897
+rooted_pagerank_time: 0:24:01.752818
+entities_cluster_check_time: 0:04:57.188825
+top_check_time: 0:04:51.327291
+The hit rate without check of RootedPageRank is 0.0595 0.10818181818181818
+The hit rate with check of RootedPageRank is 0.0725 0.1318181818181818
+
+rate: 55 batch: 2000 option SimRank
+load_time: 0:00:00.793725
+rooted_pagerank_time: 0:11:05.512801
+top_check_time: 0:05:07.411835
+The hit rate of SimRank is 0.0115 0.0023383489223261487
+
+rate: 60 batch: 2000 option SimRank
+load_time: 0:00:02.224080
+rooted_pagerank_time: 0:11:16.169181
+top_check_time: 0:08:02.650803
+The hit rate of SimRank is 0.011 0.002516010978956999
+
+rate: 65 batch: 2000 option SimRank
+load_time: 0:00:00.917654
+rooted_pagerank_time: 0:13:24.350255
+top_check_time: 0:08:17.869504
+The hit rate of SimRank is 0.009 0.0023523261892315736
+
+rate: 75 batch: 2000 option SimRank
+load_time: 0:00:01.046658
+rooted_pagerank_time: 0:14:16.977556
+top_check_time: 0:06:20.446483
+The hit rate of SimRank is 0.0055 0.002011704462326262
+
+rate: 80 batch: 2000 option SimRank
+load_time: 0:00:03.176754
+rooted_pagerank_time: 0:14:37.196111
+top_check_time: 0:07:41.662351
+The hit rate of SimRank is 0.004 0.0018281535648994515
+
+rate: 85 batch: 2000 option SimRank
+load_time: 0:00:01.210663
+rooted_pagerank_time: 0:12:04.302195
+top_check_time: 0:06:15.846081
+The hit rate of SimRank is 0.003 0.0018270401948842874
+
+rate: 90 batch: 2000 option SimRank
+load_time: 0:00:02.973489
+rooted_pagerank_time: 0:10:50.145849
+top_check_time: 0:06:28.795590
+The hit rate of SimRank is 0.001 0.0009124087591240876
+
+rate: 55 batch: 2000 option CommonNeighbours
+load_time: 0:00:00.844042
+rooted_pagerank_time: 0:01:45.944983
+top_check_time: 0:00:54.909081
+The hit rate of CommonNeighbours is 0.0005 0.00010166734444896299
+
+rate: 70 batch: 2000 option SimRank
+load_time: 0:00:01.362500
+rooted_pagerank_time: 0:09:12.729108
+top_check_time: 0:05:18.579813
+The hit rate of SimRank is 0.007 0.002134146341463415
+
+rate: 60 batch: 2000 option CommonNeighbours
+load_time: 0:00:00.949254
+rooted_pagerank_time: 0:02:08.680458
+top_check_time: 0:01:07.103678
+The hit rate of CommonNeighbours is 0.0005 0.00011436413540713633
+
+rate: 65 batch: 2000 option CommonNeighbours
+load_time: 0:00:00.949624
+rooted_pagerank_time: 0:02:28.571539
+top_check_time: 0:01:16.623825
+The hit rate of CommonNeighbours is 0.001 0.00026136957658128593
+
+rate: 95 batch: 2000 option SimRank
+load_time: 0:00:01.275953
+rooted_pagerank_time: 0:12:05.420755
+top_check_time: 0:06:41.313001
+The hit rate of SimRank is 0.0 0.0
+
+rate: 70 batch: 2000 option CommonNeighbours
+load_time: 0:00:00.961505
+rooted_pagerank_time: 0:02:45.605868
+top_check_time: 0:01:28.552837
+The hit rate of CommonNeighbours is 0.001 0.0003048780487804878
+
+rate: 75 batch: 2000 option CommonNeighbours
+load_time: 0:00:01.169187
+rooted_pagerank_time: 0:03:08.540528
+top_check_time: 0:01:40.414692
+The hit rate of CommonNeighbours is 0.001 0.000365764447695684
+
+rate: 80 batch: 2000 option CommonNeighbours
+load_time: 0:00:01.179206
+rooted_pagerank_time: 0:03:30.849869
+top_check_time: 0:01:52.805753
+The hit rate of CommonNeighbours is 0.001 0.0004570383912248629
+
+rate: 85 batch: 2000 option CommonNeighbours
+load_time: 0:00:01.148005
+rooted_pagerank_time: 0:03:56.309785
+top_check_time: 0:02:02.239984
+The hit rate of CommonNeighbours is 0.001 0.0006090133982947625
+
+rate: 90 batch: 2000 option CommonNeighbours
+load_time: 0:00:01.161509
+rooted_pagerank_time: 0:04:08.978285
+top_check_time: 0:02:24.376440
+The hit rate of CommonNeighbours is 0.0 0.0
+
+rate: 95 batch: 2000 option CommonNeighbours
+load_time: 0:00:01.216155
+rooted_pagerank_time: 0:04:39.643751
+top_check_time: 0:02:37.430211
+The hit rate of CommonNeighbours is 0.0 0.0
+
+rate: 55 batch: 2000 option Katz
+load_time: 0:00:00.796713
+rooted_pagerank_time: 0:16:29.045793
+top_check_time: 0:04:16.858122
+The hit rate of Katz is 0.002 0.00040666937779585197
+
+rate: 60 batch: 2000 option Katz
+load_time: 0:00:00.897408
+rooted_pagerank_time: 0:19:45.552477
+top_check_time: 0:04:56.372412
+The hit rate of Katz is 0.0025 0.0005718206770356817
+
+rate: 65 batch: 2000 option Katz
+load_time: 0:00:00.923040
+rooted_pagerank_time: 0:22:11.496396
+top_check_time: 0:05:43.645891
+The hit rate of Katz is 0.0025 0.0006534239414532148
+
+rate: 70 batch: 2000 option Katz
+load_time: 0:00:00.965867
+rooted_pagerank_time: 0:25:39.823785
+top_check_time: 0:06:14.056195
+The hit rate of Katz is 0.0025 0.0007621951219512195
+
+rate: 75 batch: 2000 option Katz
+load_time: 0:00:01.031995
+rooted_pagerank_time: 0:28:17.581811
+top_check_time: 0:06:46.402920
+The hit rate of Katz is 0.001 0.000365764447695684
+
+rate: 80 batch: 2000 option Katz
+load_time: 0:00:01.075182
+rooted_pagerank_time: 0:30:39.629732
+top_check_time: 0:07:24.641576
+The hit rate of Katz is 0.001 0.0004570383912248629
+
+rate: 85 batch: 2000 option Katz
+load_time: 0:00:01.149715
+rooted_pagerank_time: 0:35:18.446864
+top_check_time: 0:07:57.089865
+The hit rate of Katz is 0.001 0.0006090133982947625
+
+rate: 90 batch: 2000 option Katz
+load_time: 0:00:01.184438
+rooted_pagerank_time: 0:35:50.940923
+top_check_time: 0:08:24.268980
+The hit rate of Katz is 0.0 0.0
+
+rate: 95 batch: 2000 option Katz
+load_time: 0:00:01.259192
+rooted_pagerank_time: 0:39:55.838688
+top_check_time: 0:08:41.471269
+The hit rate of Katz is 0.0 0.0
+
+rate: 55 batch: 2000 option Random
+load_time: 0:00:00.813748
+rooted_pagerank_time: 0:02:01.802894
+top_check_time: 0:03:03.797372
+The hit rate of Random is 0.0005 0.00010166734444896299
+
+rate: 60 batch: 2000 option Random
+load_time: 0:00:00.878122
+rooted_pagerank_time: 0:02:13.948227
+top_check_time: 0:03:11.630351
+The hit rate of Random is 0.0 0.0
+
+rate: 65 batch: 2000 option Random
+load_time: 0:00:00.958879
+rooted_pagerank_time: 0:02:26.898397
+top_check_time: 0:03:26.330331
+The hit rate of Random is 0.0 0.0
+
+rate: 70 batch: 2000 option Random
+load_time: 0:00:01.011421
+rooted_pagerank_time: 0:02:36.308340
+top_check_time: 0:03:38.573003
+The hit rate of Random is 0.0 0.0

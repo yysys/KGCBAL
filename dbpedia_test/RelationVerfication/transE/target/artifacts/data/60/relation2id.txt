@@ -1,0 +1,13 @@
+gender	0
+place_of_death	1
+place_of_birth	2
+profession	3
+location	4
+spouse	5
+religion	6
+institution	7
+children	8
+nationality	9
+parents	10
+cause_of_death	11
+ethnicity	12
